@@ -2,7 +2,7 @@ This is a repository that I haven't created yet, but I might learn from this bec
 
 <h1>artikel.html 🌌🌌</h1>
 
- This Website has a blue neon display and also the name syafiq akmal written on it and there is also something moving behind it and the purpose of using this website is to improve the softskill of of progammers so that they can create a website that is not only visually appealing but can also have a moving website meybe the website can be seen as more attractive but it depends on the theme that will be presented later
+ This Website has a blue neon display and also the name syafiq akmal written on it and there is also something moving behind it and the purpose of using this website is to improve the softskill of  progammers so that they can create a website that is not only visually appealing but can also have a moving website meybe the website can be seen as more attractive but it depends on the theme that will be presented later
 
 <h1>iindex.html ❗</h1>
 
